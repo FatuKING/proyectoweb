@@ -1,0 +1,10 @@
+##Carpetas
+temp/
+tmp/
+
+##Archivos
+*.txt
+*.docs
+*.docx
+*.tmp
+*.temp
